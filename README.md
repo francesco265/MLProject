@@ -10,7 +10,7 @@ import link_prediction
 ```
 
 ## Notebook
-The code in this repository is the same present in the Colab Notebook, which was used to run the experiments ([link to the notebook](https://colab.research.google.com/drive/1q-iMFNmc-2rKBgVWhGUVEeHg-jwnyoqq?usp=sharing)).
+The code in this repository is the same present in the Colab Notebook, which was used to run the experiments (The notebook is in the _notebook_ folder or [here](https://colab.research.google.com/drive/1q-iMFNmc-2rKBgVWhGUVEeHg-jwnyoqq?usp=sharing)).
 
 ## Dependencies
 The following dependencies are needed in order to use the package:
